@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "361097657439",
+    "firebase_url": "https://babysteps-b4cde.firebaseio.com",
+    "project_id": "babysteps-b4cde",
+    "storage_bucket": "babysteps-b4cde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361097657439:android:cbb3881e560136490befea",
+        "android_client_info": {
+          "package_name": "com.mulei.taxiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361097657439-nov9bi7caa0f5vig6fthvui56rn21q9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu8NxPDxtwUplKO05OpYdHZf5YMJGh4kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361097657439-nov9bi7caa0f5vig6fthvui56rn21q9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
