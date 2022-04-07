@@ -10,13 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TaxiApp">
         <activity
+            android:name=".phoneAuth"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".SplashActivity"
             android:exported="true"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

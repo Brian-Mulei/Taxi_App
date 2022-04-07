@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/HP/.gradle/caches/transforms-3/d7580a2e81035a96e9c93d4b88aeaf84/transformed/play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_light.xml" value="0.223" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TaxiApp/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TaxiApp/app/src/main/res/layout/activity_phone_auth.xml" value="0.264" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TaxiApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TaxiApp/app/src/main/res/layout/layout_sign_in.xml" value="0.264" />
       </map>
